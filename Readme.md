@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/DXPivotGrid_CustomFilterItemsSorting/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CustomFilterItemsSorting/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to sort filter drop-down items in a custom manner
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3849)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to sort filter drop-down items in a custom manner.<br />
